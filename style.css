@@ -1,0 +1,43 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+h1{
+    font-size: 60px;
+    color: rgb(92, 89, 89);
+    margin-bottom: 30px;
+}
+.display-flexible{
+    display: flex;
+    margin-left: 150px;
+    /*margin-bottom: 200px;*/
+}
+.half-width{
+    width: 50%;
+    padding-left: 5px;
+}
+.half-width p{
+    font-size: x-large;
+    font-weight: 700px;
+    color: gray;
+    padding-bottom: 25px;
+}
+.down{
+    padding-top: 90px;
+}
+
+.half-width img{
+    padding-top: 15px;
+    width: 80%;
+}
+.salmon-color{
+    color: salmon;
+}
+.link-button{
+    color: whitesmoke;
+    text-decoration: none;
+    font-weight: 700px;
+    background-image: linear-gradient(orange, salmon);
+    border-radius: 60px;
+    padding: 10px;
+    box-shadow: 10px 10px 50px salmon;
+}
